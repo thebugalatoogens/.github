@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="The Bugalatoogens Hackathon Team" width="100%">
+  <img src="./bugalatoogens-hackathon-header.svg" alt="The Bugalatoogens Hackathon Team" width="100%">
 </p>
 
 We’re a team of girls who love attending hackathons, building ambitious projects, and learning new things together.
